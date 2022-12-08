@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, This is Ninad Sharma</h1>
+<h3 align="center">A passionate Software Engineer from India studying in Germany.</h3>
+<hr>
 - 👋 Hi, I’m @ninadsharma1. I am Ninad Sharma, currently a master student in Data Science at OvGU Magdeburg, Germany.
 
 - 👀 I’m interested in learning Data Science and Software Development primarily in Backend technologies based on Microservices architecture. 
