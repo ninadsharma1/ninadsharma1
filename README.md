@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ninadsharma1. Currently pursuing Master's in Data Science at OvGU Magdeburg, Germany.<br>💻 I’m interested in learning Data Science, Dev Ops and Software Development primarily in Backend technologies based on Microservices architecture.<br>📫 You can reach me on [email](mailto:ninad0751@gmail.com)<br>😄 I love to play chess, travel and listening to songs.
+👋 Hi, I’m @ninadsharma1. Currently pursuing Master's in Data Science at OvGU Magdeburg, Germany.<br>💻 I’m interested in learning Data Science, Dev Ops and Software Development primarily in Backend technologies based on Microservices architecture.<br>📫 Reach me on [email](mailto:ninad0751@gmail.com)<br>😄 I love to play chess, travel and listening to songs.
 
 
 ## 🌐 Socials:
